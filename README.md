@@ -9,5 +9,5 @@ Tools such as Swagger Codegen ([https://swagger.io/tools/swagger-codegen/](https
   
 **Note for Angular 6 and Ionic 4 developers:** The Open Childcare Framework ([https://github.com/LaunchingRockets/open-childcare-framework](https://github.com/LaunchingRockets/open-childcare-framework))provides a client implementation of the Open Chidlcare API along with UI components that may be useful when writting interactive apps to communicate with platforms that implement this API. 
   
-One commercial platform that provides a server implementation of the Open Childcare API is Launching Rockets <INSERT WEBSITE URL>.
+One commercial platform that provides a server implementation of the Open Childcare API is Launching Rockets INSERT WEBSITE URL HERE.
 
